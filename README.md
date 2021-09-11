@@ -42,7 +42,7 @@ ID.
 
 - Second simulation: Rectilinear distance
 
-![alt text](simulation_example/e2.png)
+![alt text](simulation_example/e3.png)
 
 
 
