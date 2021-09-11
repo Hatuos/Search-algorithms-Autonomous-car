@@ -34,15 +34,15 @@ ID.
 
 - Initial layout of the board
 
-![alt text]()
+![alt text](simulation_example/e1.png)
 
 - First simulation: Euclidean distance
 
-![alt text]()
+![alt text](simulation_example/e2.png)
 
 - Second simulation: Rectilinear distance
 
-![alt text]()
+![alt text](simulation_example/e2.png)
 
 
 
