@@ -35,16 +35,16 @@ void euclidean_simulation(Board& board)
 }
 
 
-void straight_line_simulation(Board& board)
+void rectilinear_simulation(Board& board)
 {
   unsigned t0, t1;
   double time;
   
-  cout << "  Initial state of the board - Straight line distance: " << endl;
+  cout << "  Initial state of the board - Rectilinear distance: " << endl;
   cout << board << endl;
 
   t0 = clock();
-  board.find_way(2); // Straight line distance
+  board.find_way(2); // Rectilinear distance
   t1 = clock();
   time = (double(t1-t0)/CLOCKS_PER_SEC);
   cin.get();
@@ -56,7 +56,7 @@ void straight_line_simulation(Board& board)
   
   cout << endl << endl;
   cout << board << endl << endl << endl;
-  cout << "  Simulation data - Heuristic straight distance " << endl;
+  cout << "  Simulation data - Rectilinear distance heuristic " << endl;
   board.show_simu_info(cout);
   cout << "  Execution time: " << time << endl;
   cout << "  Press enter to continue with the next heuristic test";
@@ -83,7 +83,7 @@ int main()
   euclidean_simulation(board_1);
   
   cout << endl << endl << endl;
-  straight_line_simulation(board_2);
+  rectilinear_simulation(board_2);
  
 
   return 0;
