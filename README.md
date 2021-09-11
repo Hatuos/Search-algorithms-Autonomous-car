@@ -26,5 +26,9 @@ ID.
 5) The user is informed of the number of obstacles that will be created with the previous percentage. It will asks if he wants to implement the random option or enter them manually himself, this last option allows you to enter the obstacles by keyboard or by an already predetermined file.
 6) The simulations are run with both heuristics in order to compare their performance.
 
+## Simulation example
+
+
+
 
 
