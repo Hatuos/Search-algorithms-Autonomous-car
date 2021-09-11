@@ -1,4 +1,8 @@
 # Search-algorithms-Autonomous-car
+
+Hi, this is my first project on Github, I hope it can help someone.
+
+
 ## Problem description
 The aim of this project is to use search strategies as a proposed solution in the determination of trajectory planning for autonomous cars.
 
@@ -27,6 +31,18 @@ ID.
 6) The simulations are run with both heuristics in order to compare their performance.
 
 ## Simulation example
+
+- Initial layout of the board
+
+![alt text](simulation_example/p1.png)
+
+- First simulation: Euclidean distance
+
+![alt text](simulation_example/p2.png)
+
+- First simulation: Rectilinear distance
+
+![alt text](simulation_example/p3.png)
 
 
 
