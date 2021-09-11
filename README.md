@@ -40,7 +40,7 @@ ID.
 
 ![alt text](simulation_example/p2.png)
 
-- First simulation: Rectilinear distance
+- Second simulation: Rectilinear distance
 
 ![alt text](simulation_example/p3.png)
 
