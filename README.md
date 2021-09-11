@@ -17,7 +17,7 @@ Euclidean distance: In such a two-dimensional space problem, the Euclidean dista
 Rectilinear distance: In a two-dimensional space problem like this one, the rectilinear distance between two points is posed as a series of 90 degree turns joining the two points. Having the origin node C with coordinates (c1, c2) and the end node X with coordinates (x1,x2) , is calculated as -> RD = | x1 - c1 | + | x2 - c2 |
 
 ## Description of the interface and its implementation
-The interface displayed by our program simulates a board with dimensions M x N which is bounded with well bounded with prominent borders and is composed of a series of squares that refer to the different positions within it. to the different positions within the board.
+The interface displayed by our program simulates a board with dimensions M x N which is bounded with prominent borders and is composed of a series of squares that refer to the different positions within it.
 
 There are 3 main elements on the board. The first is our starting position, the car, represented by the character "C", the second the final position, represented by the character "X" and finally, the obstacles, represented by the character "1". The car moves through the board avoiding obstacles and leaving behind it the character "*", all this based on the function applied heuristics. All these elements are differentiated from each other with striking colors that facilitate their
 ID.
