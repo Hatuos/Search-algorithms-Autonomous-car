@@ -4,7 +4,7 @@ SOURCE = src
 INC = include
 
 # Executable file name
-TARGET = $(BIN)/p1
+TARGET = $(BIN)/executable
 
 # Flags for the compiler
 CXXFLAGS = -std=c++11 -I$(INC)
