@@ -1,6 +1,6 @@
 # Search-algorithms-Autonomous-car
 
-Hi, this is my first project on Github, I hope it can help someone.
+Hi, this is my first project on Github. I hope it can help someone.
 
 
 ## Problem description
